@@ -516,7 +516,7 @@ footer {
 }
 
 @media screen and (max-width:900px) {
-    body{
+    .godwrap{
         overflow-x: hidden;
     }
 
