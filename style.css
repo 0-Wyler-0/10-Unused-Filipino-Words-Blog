@@ -598,9 +598,6 @@ footer {
         margin-right: auto;
     }
 
-    .topp {
-        grid-template-columns: 1fr;
-    }
 }
 
 .nav-active {
