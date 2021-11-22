@@ -98,11 +98,6 @@ input, select {
 
 /* Code */
 
-img {
-    max-width: 100%;
-    display: block;
-}
-
 html {
     box-sizing: border-box;
 }
@@ -582,7 +577,7 @@ footer {
         row-gap: 10px;
     }
 
-    .Phil {
+    .topp img {
         display: block;
         margin-left: auto;
         margin-right: auto;
