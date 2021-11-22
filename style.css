@@ -98,10 +98,14 @@ input, select {
 
 /* Code */
 
-*{
+html {
+    box-sizing: border-box;
+}
+
+* {
     margin: 0px;
     padding: 0px;
-    box-sizing: border-box;
+    box-sizing: inherit;
 }
 
 .godwrap {
@@ -165,7 +169,7 @@ nav {
 .nav-li ul {
     list-style: none;
 }
-
+ 
 .nav-li a {
     color: #a4bcbc;
     text-decoration: none;
