@@ -98,6 +98,11 @@ input, select {
 
 /* Code */
 
+img {
+    max-width: 100%;
+    display: block;
+}
+
 html {
     box-sizing: border-box;
 }
