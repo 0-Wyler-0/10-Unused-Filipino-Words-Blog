@@ -578,7 +578,8 @@ footer {
         row-gap: 10px;
     }
 
-    .Phil img {
+    .Phil {
+        grid-template-columns: 1fr;
         display: block;
         margin-left: auto;
         margin-right: auto;
