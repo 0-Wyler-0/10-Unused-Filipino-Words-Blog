@@ -615,6 +615,10 @@ footer {
         margin-right: auto;
     }
 
+    footer {
+        margin: 10px;
+    }
+
     .feet-bottom p {
         margin: 10px;
     }
