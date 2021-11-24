@@ -583,16 +583,34 @@ footer {
         margin-right: auto;
     }
 
-    header {
+    .topp {
         display: flex;
         flex-direction: column;
+        margin: 10px;
     }
 
     .allnum {
         display: flex;
         flex-direction: column;
+        margin: 10px;
     }
     .allnum img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .picflip div {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 80vh;
+        width: 50%;
+    }
+
+    .side-content {
+        width: 60%;
+        margin: 20px;
         display: block;
         margin-left: auto;
         margin-right: auto;
