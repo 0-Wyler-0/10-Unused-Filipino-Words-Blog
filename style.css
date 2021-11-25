@@ -644,11 +644,13 @@ footer {
         margin: 10px;
     }
 
+}
+
+@media screen and (max-width:700px) {
     .feet-bottom p {
         margin: 10px;
         font-size: 10px;
     }
-
 }
 
 .nav-active {
