@@ -437,6 +437,7 @@ img {
 
 .side-descript {
     border-top: 2px solid #2a3142;
+    height: 100%;
 }
 
 .side-descript h2 {
